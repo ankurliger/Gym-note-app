@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Gym-note-app/static/css/main.da89eee0.css",
+    "main.js": "/Gym-note-app/static/js/main.e2e8fc23.js",
+    "static/media/bc.jpg": "/Gym-note-app/static/media/bc.5a075b600b8f8c10347e.jpg",
+    "index.html": "/Gym-note-app/index.html",
+    "main.da89eee0.css.map": "/Gym-note-app/static/css/main.da89eee0.css.map",
+    "main.e2e8fc23.js.map": "/Gym-note-app/static/js/main.e2e8fc23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da89eee0.css",
+    "static/js/main.e2e8fc23.js"
+  ]
+}
